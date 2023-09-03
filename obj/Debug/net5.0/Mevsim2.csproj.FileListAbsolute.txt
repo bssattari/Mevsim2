@@ -1,0 +1,16 @@
+D:\MKSULAR\CSharp\Console\Mevsim2\bin\Debug\net5.0\Mevsim2.exe
+D:\MKSULAR\CSharp\Console\Mevsim2\bin\Debug\net5.0\Mevsim2.deps.json
+D:\MKSULAR\CSharp\Console\Mevsim2\bin\Debug\net5.0\Mevsim2.runtimeconfig.json
+D:\MKSULAR\CSharp\Console\Mevsim2\bin\Debug\net5.0\Mevsim2.runtimeconfig.dev.json
+D:\MKSULAR\CSharp\Console\Mevsim2\bin\Debug\net5.0\Mevsim2.dll
+D:\MKSULAR\CSharp\Console\Mevsim2\bin\Debug\net5.0\ref\Mevsim2.dll
+D:\MKSULAR\CSharp\Console\Mevsim2\bin\Debug\net5.0\Mevsim2.pdb
+D:\MKSULAR\CSharp\Console\Mevsim2\obj\Debug\net5.0\Mevsim2.csproj.AssemblyReference.cache
+D:\MKSULAR\CSharp\Console\Mevsim2\obj\Debug\net5.0\Mevsim2.GeneratedMSBuildEditorConfig.editorconfig
+D:\MKSULAR\CSharp\Console\Mevsim2\obj\Debug\net5.0\Mevsim2.AssemblyInfoInputs.cache
+D:\MKSULAR\CSharp\Console\Mevsim2\obj\Debug\net5.0\Mevsim2.AssemblyInfo.cs
+D:\MKSULAR\CSharp\Console\Mevsim2\obj\Debug\net5.0\Mevsim2.csproj.CoreCompileInputs.cache
+D:\MKSULAR\CSharp\Console\Mevsim2\obj\Debug\net5.0\Mevsim2.dll
+D:\MKSULAR\CSharp\Console\Mevsim2\obj\Debug\net5.0\ref\Mevsim2.dll
+D:\MKSULAR\CSharp\Console\Mevsim2\obj\Debug\net5.0\Mevsim2.pdb
+D:\MKSULAR\CSharp\Console\Mevsim2\obj\Debug\net5.0\Mevsim2.genruntimeconfig.cache
